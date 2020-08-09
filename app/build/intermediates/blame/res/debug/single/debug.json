@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/layout-land_fragment_camera.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/layout-land/fragment_camera.xml"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/layout_fragment_camera.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/drawable_ic_photo.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/layout_menu_inicial.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/layout/menu_inicial.xml"
+    },
+    {
+        "merged": "/home/pablo/Documents/IP005/app/build/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/home/pablo/Documents/IP005/app/src/main/res/layout/activity_camera.xml"
+    }
+]
